@@ -14,7 +14,16 @@ Usage:
 ```
   url=https://github.com/thell/rstudio-build-urls/raw/master/latest.json
   url=$(jq -r '.preview.desktop.bionic.rstudio' <(curl -s ${url}))
-  curl -o rstudio.deb "${url}"
+  curl -s -o rstudio.deb "${url}"
 ```
 
 Why do this instead of just using the 'latest' url? To proxy and cache the release build url and file.
+
+It is an alternate to an single url on-demand solution such as
+
+```
+path=/rstudio.org/download/latest/preview/desktop/bionic/rstudio-latest-amd64.deb
+url=http://en50lf18lv6fhg4.m.pipedream.net
+url=$(jq -r '.latest' <(curl -s ${url}${path}))
+curl -s -o rstudio.deb "${url}"
+```
