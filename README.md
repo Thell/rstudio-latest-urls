@@ -13,7 +13,7 @@ is
 Usage:
 ```
   url=https://github.com/thell/rstudio-build-urls/raw/master/latest.json
-  url=$(jq -r '.preview.desktop.bionic.rstudio' <(curl -s ${url}))
+  url=$(jq -r '.preview.desktop.bionic.rstudio' <(curl -s -L ${url}))
   curl -s -o rstudio.deb "${url}"
 ```
 
@@ -24,6 +24,6 @@ It is an alternate to an single url on-demand solution such as
 ```
 path=/rstudio.org/download/latest/preview/desktop/bionic/rstudio-latest-amd64.deb
 url=http://en50lf18lv6fhg4.m.pipedream.net
-url=$(jq -r '.latest' <(curl -s ${url}${path}))
+url=$(jq -r '.latest' <(curl -s -L ${url}${path}))
 curl -s -o rstudio.deb "${url}"
 ```
