@@ -12,9 +12,9 @@ is
 
 Usage:
 ```
-  url=https://github.com/thell/rstudio-latest-urls/raw/master/latest.json
-  url=$(jq -r '.preview.desktop.bionic.rstudio' <(curl -s -L ${url}))
-  curl -s -o rstudio.deb "${url}"
+url=https://github.com/thell/rstudio-latest-urls/raw/master/latest.json
+url=$(jq -r '.preview.desktop.bionic.rstudio' <(curl -s -L ${url}))
+curl -s -o rstudio.deb "${url}"
 ```
 
 Why do this instead of just using the 'latest' url? To proxy and cache the release build url and file.
