@@ -12,7 +12,7 @@ is
 
 Usage:
 ```
-  url=https://github.com/thell/rstudio-build-urls/raw/master/latest.json
+  url=https://github.com/thell/rstudio-latest-urls/raw/master/latest.json
   url=$(jq -r '.preview.desktop.bionic.rstudio' <(curl -s -L ${url}))
   curl -s -o rstudio.deb "${url}"
 ```
