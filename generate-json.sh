@@ -35,7 +35,6 @@ reduce .[] as $url_paths
       )
 EOL
 )
-latest_json=$(jq "${jq_cmd}" <(echo ${url_paths_json[*]}))
 
 url_index=0
 for line in $(jq "${jq_cmd}" <(echo ${url_paths_json[*]})); do
