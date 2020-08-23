@@ -19,7 +19,7 @@ curl -s -o rstudio.deb "${url}"
 
 Why do this instead of just using the 'latest' url? To proxy and cache the release build url and file.
 
-It is an alternate to an single url on-demand solution such as
+It is an alternate to a single url on-demand solution such as
 
 ```
 path=/rstudio.org/download/latest/preview/desktop/bionic/rstudio-latest-amd64.deb
