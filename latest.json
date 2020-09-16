@@ -11,7 +11,7 @@
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/debian9/x86_64/rstudio-1.4.405-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/macos/RStudio-1.4.818.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/macos/RStudio-1.4.824.dmg"
       },
       "opensuse": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/opensuse/x86_64/rstudio-1.4.405-x86_64.rpm"
@@ -104,19 +104,19 @@
     "server": {
       "bionic": {
         "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-1.3.1091-amd64.deb",
-        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.3.1091-2-amd64.deb"
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.3.1091-4-amd64.deb"
       },
       "centos8": {
         "rstudio-server-rhel": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-1.3.1091-x86_64.rpm",
-        "rstudio-server-rhel-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-pro-1.3.1091-2-x86_64.rpm"
+        "rstudio-server-rhel-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-pro-1.3.1091-4-x86_64.rpm"
       },
       "debian9_64": {
         "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/debian9/x86_64/rstudio-server-1.3.1091-amd64.deb",
-        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/debian9/x86_64/rstudio-server-pro-1.3.1091-2-amd64.deb"
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/debian9/x86_64/rstudio-server-pro-1.3.1091-4-amd64.deb"
       },
       "opensuse15": {
         "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-1.3.1091-x86_64.rpm",
-        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.3.1091-2-x86_64.rpm"
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.3.1091-4-x86_64.rpm"
       },
       "redhat6_64": {
         "rstudio-server-rhel": "https://rstudio.org/download/latest/preview/server/redhat6_64/rstudio-server-rhel-latest-x86_64.rpm",
@@ -124,25 +124,25 @@
       },
       "suse12_64": {
         "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse/x86_64/rstudio-server-1.3.1091-x86_64.rpm",
-        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse/x86_64/rstudio-server-pro-1.3.1091-2-x86_64.rpm"
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse/x86_64/rstudio-server-pro-1.3.1091-4-x86_64.rpm"
       },
       "xenial": {
         "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-1.3.1091-amd64.deb",
-        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-pro-1.3.1091-2-amd64.deb"
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-pro-1.3.1091-4-amd64.deb"
       }
     },
     "session": {
       "debian9_64": {
-        "rsp-session-debian9": "https://s3.amazonaws.com/rstudio-ide-build/session/debian9/rsp-session-debian9-1.3.1091-2.tar.gz"
+        "rsp-session-debian9": "https://s3.amazonaws.com/rstudio-ide-build/session/debian9/rsp-session-debian9-1.3.1091-4.tar.gz"
       },
       "redhat6_64": {
         "rsp-session-centos6": "https://rstudio.org/download/latest/preview/session/redhat6_64/rsp-session-centos6-latest.tar.gz"
       },
       "suse12_64": {
-        "rsp-session-opensuse": "https://s3.amazonaws.com/rstudio-ide-build/session/opensuse/rsp-session-opensuse-1.3.1091-2.tar.gz"
+        "rsp-session-opensuse": "https://s3.amazonaws.com/rstudio-ide-build/session/opensuse/rsp-session-opensuse-1.3.1091-4.tar.gz"
       },
       "xenial": {
-        "rsp-session-xenial": "https://s3.amazonaws.com/rstudio-ide-build/session/xenial/rsp-session-xenial-1.3.1091-2.tar.gz"
+        "rsp-session-xenial": "https://s3.amazonaws.com/rstudio-ide-build/session/xenial/rsp-session-xenial-1.3.1091-4.tar.gz"
       }
     }
   },
