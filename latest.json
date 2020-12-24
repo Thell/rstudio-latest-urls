@@ -32,11 +32,11 @@
     "server": {
       "bionic": {
         "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-1.4.1100-amd64.deb",
-        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.4.1100-2-amd64.deb"
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.4.1100-3-amd64.deb"
       },
       "centos8": {
         "rstudio-server-rhel": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-1.4.1100-x86_64.rpm",
-        "rstudio-server-rhel-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-pro-1.4.1100-2-x86_64.rpm"
+        "rstudio-server-rhel-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-pro-1.4.1100-3-x86_64.rpm"
       },
       "debian9_64": {
         "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-1.4.1036-amd64.deb",
@@ -44,7 +44,7 @@
       },
       "opensuse15": {
         "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-1.4.1100-x86_64.rpm",
-        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.4.1100-2-x86_64.rpm"
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.4.1100-3-x86_64.rpm"
       },
       "redhat6_64": {
         "rstudio-server-rhel": "https://rstudio.org/download/latest/daily/server/redhat6_64/rstudio-server-rhel-latest-x86_64.rpm",
@@ -56,7 +56,7 @@
       },
       "xenial": {
         "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-1.4.1100-amd64.deb",
-        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-pro-1.4.1100-2-amd64.deb"
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-pro-1.4.1100-3-amd64.deb"
       }
     },
     "session": {
