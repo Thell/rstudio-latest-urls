@@ -2,22 +2,22 @@
   "daily": {
     "desktop": {
       "bionic": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/bionic/amd64/rstudio-1.4.1576-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/bionic/amd64/rstudio-1.4.1579-amd64.deb"
       },
       "centos8": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1576-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1579-x86_64.rpm"
       },
       "debian9": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/debian9/x86_64/rstudio-1.4.1576-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/debian9/x86_64/rstudio-1.4.1579-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/macos/RStudio-1.4.1576.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/macos/RStudio-1.4.1579.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/daily/desktop/opensuse/rstudio-latest-x86_64.rpm"
       },
       "opensuse15": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/opensuse15/x86_64/rstudio-1.4.1576-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/opensuse15/x86_64/rstudio-1.4.1579-x86_64.rpm"
       },
       "redhat64": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1036-x86_64.rpm"
@@ -26,16 +26,16 @@
         "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-1.4.1025.exe"
       },
       "xenial": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/xenial/amd64/rstudio-1.4.1576-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/xenial/amd64/rstudio-1.4.1579-amd64.deb"
       }
     },
     "server": {
       "bionic": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-1.4.1576-amd64.deb",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-1.4.1579-amd64.deb",
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.4.1106-4-amd64.deb"
       },
       "centos8": {
-        "rstudio-server-rhel": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-1.4.1576-x86_64.rpm",
+        "rstudio-server-rhel": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-1.4.1579-x86_64.rpm",
         "rstudio-server-rhel-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-pro-1.4.1106-4-x86_64.rpm"
       },
       "debian9_64": {
@@ -43,7 +43,7 @@
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/debian9/x86_64/rstudio-server-pro-1.4.1034-3-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-1.4.1576-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-1.4.1579-x86_64.rpm",
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.4.1106-4-x86_64.rpm"
       },
       "redhat6_64": {
@@ -55,7 +55,7 @@
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.4.1034-3-x86_64.rpm"
       },
       "xenial": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-1.4.1576-amd64.deb",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-1.4.1579-amd64.deb",
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-pro-1.4.1106-4-amd64.deb"
       }
     },
