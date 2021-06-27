@@ -35,7 +35,7 @@
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.4.1120-1-amd64.deb"
       },
       "centos8": {
-        "rstudio-server-rhel": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-1.5.140-x86_64.rpm",
+        "rstudio-server-rhel": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-1.5.141-x86_64.rpm",
         "rstudio-server-rhel-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-pro-1.4.1120-1-x86_64.rpm"
       },
       "debian9_64": {
