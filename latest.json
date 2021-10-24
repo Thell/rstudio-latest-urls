@@ -23,7 +23,7 @@
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1036-x86_64.rpm"
       },
       "windows": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.01.1-daily%2B162.exe"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/windows/RStudio-2022.01.1-daily%2B163.exe"
       },
       "xenial": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/xenial/amd64/rstudio-1.4.1725-amd64.deb"
