@@ -2,22 +2,22 @@
   "daily": {
     "desktop": {
       "bionic": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/bionic/amd64/rstudio-2022.02.0-daily-362-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/bionic/amd64/rstudio-2022.06.0-daily-11-amd64.deb"
       },
       "centos8": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-2022.02.0-daily-357-x86_64.rpm"
       },
       "debian9": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/debian9/x86_64/rstudio-2022.02.0-daily-363-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/debian9/x86_64/rstudio-2022.06.0-daily-11-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/macos/RStudio-2022.02.0-daily-364.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/macos/RStudio-2022.06.0-daily-11.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/daily/desktop/opensuse/rstudio-latest-x86_64.rpm"
       },
       "opensuse15": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/opensuse15/x86_64/rstudio-2022.02.0-daily-363-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/opensuse15/x86_64/rstudio-2022.06.0-daily-11-x86_64.rpm"
       },
       "redhat64": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1036-x86_64.rpm"
@@ -31,7 +31,7 @@
     },
     "server": {
       "bionic": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-2022.02.0-daily-363-amd64.deb",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-2022.06.0-daily-11-amd64.deb",
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.4.1120-1-amd64.deb"
       },
       "centos8": {
@@ -43,7 +43,7 @@
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/debian9/x86_64/rstudio-server-pro-1.4.1034-3-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2022.02.0-daily-363-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2022.06.0-daily-11-x86_64.rpm",
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.4.1120-1-x86_64.rpm"
       },
       "redhat6_64": {
@@ -149,25 +149,25 @@
   "stable": {
     "desktop": {
       "bionic": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/bionic/amd64/rstudio-2021.09.1-372-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/bionic/amd64/rstudio-2021.09.2-382-amd64.deb"
       },
       "centos8": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/centos8/x86_64/rstudio-2021.09.1-372-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/centos8/x86_64/rstudio-2021.09.2-382-x86_64.rpm"
       },
       "debian9": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/debian9/x86_64/rstudio-2021.09.1-372-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/debian9/x86_64/rstudio-2021.09.2-382-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/macos/RStudio-2021.09.1-372.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/macos/RStudio-2021.09.2-382.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/stable/desktop/opensuse/rstudio-latest-x86_64.rpm"
       },
       "opensuse15": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/opensuse15/x86_64/rstudio-2021.09.1-372-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/opensuse15/x86_64/rstudio-2021.09.2-382-x86_64.rpm"
       },
       "redhat64": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/centos7/x86_64/rstudio-2021.09.1-372-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/desktop/centos7/x86_64/rstudio-2021.09.2-382-x86_64.rpm"
       },
       "xenial": {
         "rstudio": "https://rstudio.org/download/latest/stable/desktop/xenial/rstudio-latest-amd64.deb"
@@ -175,19 +175,19 @@
     },
     "server": {
       "bionic": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/bionic/amd64/rstudio-server-2021.09.1-372-amd64.deb",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/bionic/amd64/rstudio-server-2021.09.2-382-amd64.deb",
         "rstudio-server-pro": "https://rstudio.org/download/latest/stable/server/bionic/rstudio-server-pro-latest-amd64.deb"
       },
       "centos8": {
-        "rstudio-server-rhel": "https://s3.amazonaws.com/rstudio-server/server/centos8/x86_64/rstudio-server-rhel-2021.09.1-372-x86_64.rpm",
+        "rstudio-server-rhel": "https://s3.amazonaws.com/rstudio-server/server/centos8/x86_64/rstudio-server-rhel-2021.09.2-382-x86_64.rpm",
         "rstudio-server-rhel-pro": "https://rstudio.org/download/latest/stable/server/centos8/rstudio-server-rhel-pro-latest-x86_64.rpm"
       },
       "debian9_64": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/debian9/x86_64/rstudio-server-2021.09.1-372-amd64.deb",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/debian9/x86_64/rstudio-server-2021.09.2-382-amd64.deb",
         "rstudio-server-pro": "https://rstudio.org/download/latest/stable/server/debian9_64/rstudio-server-pro-latest-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/opensuse15/x86_64/rstudio-server-2021.09.1-372-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/opensuse15/x86_64/rstudio-server-2021.09.2-382-x86_64.rpm",
         "rstudio-server-pro": "https://rstudio.org/download/latest/stable/server/opensuse15/rstudio-server-pro-latest-x86_64.rpm"
       },
       "redhat6_64": {
@@ -195,7 +195,7 @@
         "rstudio-server-rhel-pro": "https://rstudio.org/download/latest/stable/server/redhat6_64/rstudio-server-rhel-pro-latest-x86_64.rpm"
       },
       "suse12_64": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/opensuse/x86_64/rstudio-server-2021.09.1-372-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/opensuse/x86_64/rstudio-server-2021.09.2-382-x86_64.rpm",
         "rstudio-server-pro": "https://rstudio.org/download/latest/stable/server/suse12_64/rstudio-server-pro-latest-x86_64.rpm"
       },
       "xenial": {
@@ -205,13 +205,13 @@
     },
     "session": {
       "debian9_64": {
-        "rsp-session-debian9": "https://s3.amazonaws.com/rstudio-desktop/session/debian9/rsp-session-debian9-2021.09.1-372.pro1.tar.gz"
+        "rsp-session-debian9": "https://s3.amazonaws.com/rstudio-desktop/session/debian9/rsp-session-debian9-2021.09.2-382.pro1.tar.gz"
       },
       "redhat6_64": {
         "rsp-session-centos6": "https://rstudio.org/download/latest/stable/session/redhat6_64/rsp-session-centos6-latest.tar.gz"
       },
       "suse12_64": {
-        "rsp-session-opensuse": "https://s3.amazonaws.com/rstudio-desktop/session/opensuse/rsp-session-opensuse-2021.09.1-372.pro1.tar.gz"
+        "rsp-session-opensuse": "https://s3.amazonaws.com/rstudio-desktop/session/opensuse/rsp-session-opensuse-2021.09.2-382.pro1.tar.gz"
       },
       "xenial": {
         "rsp-session-xenial": "https://rstudio.org/download/latest/stable/session/xenial/rsp-session-xenial-latest.tar.gz"
