@@ -31,7 +31,7 @@
     },
     "server": {
       "bionic": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-2022.10.0-daily-36-amd64.deb",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-2022.10.0-daily-37-amd64.deb",
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.4.1120-1-amd64.deb"
       },
       "centos8": {
@@ -43,7 +43,7 @@
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/debian9/x86_64/rstudio-server-pro-1.4.1034-3-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2022.10.0-daily-36-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2022.10.0-daily-37-x86_64.rpm",
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.4.1120-1-x86_64.rpm"
       },
       "redhat6_64": {
