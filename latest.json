@@ -2,7 +2,7 @@
   "daily": {
     "desktop": {
       "bionic": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/bionic/amd64/rstudio-2023.03.0-daily-322-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/bionic/amd64/rstudio-2023.03.0-daily-323-amd64.deb"
       },
       "centos8": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-2022.02.0-daily-357-x86_64.rpm"
@@ -17,13 +17,13 @@
         "rstudio": "https://rstudio.org/download/latest/daily/desktop/opensuse/rstudio-latest-x86_64.rpm"
       },
       "opensuse15": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/opensuse15/x86_64/rstudio-2023.03.0-daily-322-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/opensuse15/x86_64/rstudio-2023.03.0-daily-323-x86_64.rpm"
       },
       "redhat64": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1036-x86_64.rpm"
       },
       "windows": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/windows/RStudio-2023.03.0-daily-322.exe"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/windows/RStudio-2023.03.0-daily-323.exe"
       },
       "xenial": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/xenial/amd64/rstudio-1.4.1743-amd64.deb"
@@ -31,7 +31,7 @@
     },
     "server": {
       "bionic": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-2023.03.0-daily-322-amd64.deb",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-2023.03.0-daily-323-amd64.deb",
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.4.1120-1-amd64.deb"
       },
       "centos8": {
@@ -43,7 +43,7 @@
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/debian9/x86_64/rstudio-server-pro-1.4.1034-3-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2023.03.0-daily-322-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2023.03.0-daily-323-x86_64.rpm",
         "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.4.1120-1-x86_64.rpm"
       },
       "redhat6_64": {
