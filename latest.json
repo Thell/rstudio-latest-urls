@@ -11,19 +11,19 @@
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/debian9/x86_64/rstudio-2022.06.0-daily-333-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2023.12.0-daily-323.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2023.12.0-daily-326.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/daily/desktop/opensuse/rstudio-latest-x86_64.rpm"
       },
       "opensuse15": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/opensuse15/x86_64/rstudio-2023.12.0-daily-323-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/opensuse15/x86_64/rstudio-2023.12.0-daily-326-x86_64.rpm"
       },
       "redhat64": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1036-x86_64.rpm"
       },
       "windows": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/windows/RStudio-2023.12.0-daily-323.exe"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/windows/RStudio-2023.12.0-daily-326.exe"
       },
       "xenial": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/xenial/amd64/rstudio-1.4.1743-amd64.deb"
