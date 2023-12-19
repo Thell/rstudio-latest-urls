@@ -17,7 +17,7 @@
         "rstudio": "https://rstudio.org/download/latest/daily/desktop/opensuse/rstudio-latest-x86_64.rpm"
       },
       "opensuse15": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/opensuse15/x86_64/rstudio-2024.04.0-daily-110-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/opensuse15/x86_64/rstudio-2024.04.0-daily-111-x86_64.rpm"
       },
       "redhat64": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1036-x86_64.rpm"
