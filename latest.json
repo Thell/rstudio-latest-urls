@@ -2,75 +2,75 @@
   "daily": {
     "desktop": {
       "bionic": {
-        "rstudio": "https://rstudio.org/download/latest/daily/desktop/bionic/rstudio-latest-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/bionic/amd64/rstudio-2023.05.0-daily-92-amd64.deb"
       },
       "centos8": {
-        "rstudio": "https://rstudio.org/download/latest/daily/desktop/centos8/rstudio-latest-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-2022.02.0-daily-357-x86_64.rpm"
       },
       "debian9": {
-        "rstudio": "https://rstudio.org/download/latest/daily/desktop/debian9/rstudio-latest-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/debian9/x86_64/rstudio-2022.06.0-daily-333-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://rstudio.org/download/latest/daily/desktop/mac/RStudio-latest.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2024.07.0-daily-196.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/daily/desktop/opensuse/rstudio-latest-x86_64.rpm"
       },
       "opensuse15": {
-        "rstudio": "https://rstudio.org/download/latest/daily/desktop/opensuse15/rstudio-latest-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/opensuse15/x86_64/rstudio-2024.07.0-daily-180-x86_64.rpm"
       },
       "redhat64": {
-        "rstudio": "https://rstudio.org/download/latest/daily/desktop/redhat64/rstudio-latest-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1036-x86_64.rpm"
       },
       "windows": {
-        "RStudio": "https://rstudio.org/download/latest/daily/desktop/windows/RStudio-latest.exe"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/windows/RStudio-2024.07.0-daily-196.exe"
       },
       "xenial": {
-        "rstudio": "https://rstudio.org/download/latest/daily/desktop/xenial/rstudio-latest-amd64.deb"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/xenial/amd64/rstudio-1.4.1743-amd64.deb"
       }
     },
     "server": {
       "bionic": {
-        "rstudio-server": "https://rstudio.org/download/latest/daily/server/bionic/rstudio-server-latest-amd64.deb",
-        "rstudio-server-pro": "https://rstudio.org/download/latest/daily/server/bionic/rstudio-server-pro-latest-amd64.deb"
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-2023.05.0-daily-92-amd64.deb",
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/bionic/amd64/rstudio-server-pro-1.4.1120-1-amd64.deb"
       },
       "centos8": {
-        "rstudio-server-rhel": "https://rstudio.org/download/latest/daily/server/centos8/rstudio-server-rhel-latest-x86_64.rpm",
-        "rstudio-server-rhel-pro": "https://rstudio.org/download/latest/daily/server/centos8/rstudio-server-rhel-pro-latest-x86_64.rpm"
+        "rstudio-server-rhel": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-2022.02.0-daily-357-x86_64.rpm",
+        "rstudio-server-rhel-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/centos8/x86_64/rstudio-server-rhel-pro-1.4.1120-1-x86_64.rpm"
       },
       "debian9_64": {
-        "rstudio-server": "https://rstudio.org/download/latest/daily/server/debian9_64/rstudio-server-latest-amd64.deb",
-        "rstudio-server-pro": "https://rstudio.org/download/latest/daily/server/debian9_64/rstudio-server-pro-latest-amd64.deb"
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-1.4.1036-amd64.deb",
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/debian9/x86_64/rstudio-server-pro-1.4.1034-3-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://rstudio.org/download/latest/daily/server/opensuse15/rstudio-server-latest-x86_64.rpm",
-        "rstudio-server-pro": "https://rstudio.org/download/latest/daily/server/opensuse15/rstudio-server-pro-latest-x86_64.rpm"
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2024.07.0-daily-180-x86_64.rpm",
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.4.1120-1-x86_64.rpm"
       },
       "redhat6_64": {
         "rstudio-server-rhel": "https://rstudio.org/download/latest/daily/server/redhat6_64/rstudio-server-rhel-latest-x86_64.rpm",
         "rstudio-server-rhel-pro": "https://rstudio.org/download/latest/daily/server/redhat6_64/rstudio-server-rhel-pro-latest-x86_64.rpm"
       },
       "suse12_64": {
-        "rstudio-server": "https://rstudio.org/download/latest/daily/server/suse12_64/rstudio-server-latest-x86_64.rpm",
-        "rstudio-server-pro": "https://rstudio.org/download/latest/daily/server/suse12_64/rstudio-server-pro-latest-x86_64.rpm"
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-1.4.1036-x86_64.rpm",
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-pro-1.4.1034-3-x86_64.rpm"
       },
       "xenial": {
-        "rstudio-server": "https://rstudio.org/download/latest/daily/server/xenial/rstudio-server-latest-amd64.deb",
-        "rstudio-server-pro": "https://rstudio.org/download/latest/daily/server/xenial/rstudio-server-pro-latest-amd64.deb"
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-1.4.1743-amd64.deb",
+        "rstudio-server-pro": "https://s3.amazonaws.com/rstudio-ide-build/server/xenial/amd64/rstudio-server-pro-1.4.1120-1-amd64.deb"
       }
     },
     "session": {
       "debian9_64": {
-        "rsp-session-debian9": "https://rstudio.org/download/latest/daily/session/debian9_64/rsp-session-debian9-latest.tar.gz"
+        "rsp-session-debian9": "https://s3.amazonaws.com/rstudio-ide-build/session/debian9/rsp-session-debian9-1.4.1025.tar.gz"
       },
       "redhat6_64": {
         "rsp-session-centos6": "https://rstudio.org/download/latest/daily/session/redhat6_64/rsp-session-centos6-latest.tar.gz"
       },
       "suse12_64": {
-        "rsp-session-opensuse": "https://rstudio.org/download/latest/daily/session/suse12_64/rsp-session-opensuse-latest.tar.gz"
+        "rsp-session-opensuse": "https://s3.amazonaws.com/rstudio-ide-build/session/opensuse/rsp-session-opensuse-1.4.1025.tar.gz"
       },
       "xenial": {
-        "rsp-session-xenial": "https://rstudio.org/download/latest/daily/session/xenial/rsp-session-xenial-latest.tar.gz"
+        "rsp-session-xenial": "https://s3.amazonaws.com/rstudio-ide-build/session/xenial/rsp-session-xenial-1.4.1025.tar.gz"
       }
     }
   },
