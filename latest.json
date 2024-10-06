@@ -11,7 +11,7 @@
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/debian9/x86_64/rstudio-2022.06.0-daily-333-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2024.11.0-daily-266.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2024.11.0-daily-269.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/daily/desktop/opensuse/rstudio-latest-x86_64.rpm"
