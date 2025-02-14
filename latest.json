@@ -11,7 +11,7 @@
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/debian9/x86_64/rstudio-2022.06.0-daily-333-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2025.04.0-daily-282.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2025.04.0-daily-296.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/daily/desktop/opensuse/rstudio-latest-x86_64.rpm"
@@ -23,7 +23,7 @@
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/centos8/x86_64/rstudio-1.4.1036-x86_64.rpm"
       },
       "windows": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/windows/RStudio-2025.04.0-daily-282.exe"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/windows/RStudio-2025.04.0-daily-296.exe"
       },
       "xenial": {
         "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/desktop/xenial/amd64/rstudio-1.4.1743-amd64.deb"
@@ -86,13 +86,13 @@
         "rstudio": "https://rstudio.org/download/latest/preview/desktop/debian9/rstudio-latest-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2024.12.0-467.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2024.12.1-563.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/preview/desktop/opensuse/rstudio-latest-x86_64.rpm"
       },
       "opensuse15": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/opensuse15/x86_64/rstudio-2024.12.0-467-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/opensuse15/x86_64/rstudio-2024.12.1-563-x86_64.rpm"
       },
       "redhat64": {
         "rstudio": "https://rstudio.org/download/latest/preview/desktop/redhat64/rstudio-latest-x86_64.rpm"
@@ -115,7 +115,7 @@
         "rstudio-server-pro": "https://rstudio.org/download/latest/preview/server/debian9_64/rstudio-server-pro-latest-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2024.12.0-467-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2024.12.1-563-x86_64.rpm",
         "rstudio-server-pro": "https://rstudio.org/download/latest/preview/server/opensuse15/rstudio-server-pro-latest-x86_64.rpm"
       },
       "redhat6_64": {
@@ -158,13 +158,13 @@
         "rstudio": "https://rstudio.org/download/latest/stable/desktop/debian9/rstudio-latest-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-desktop/electron/macos/RStudio-2024.12.0-467.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-desktop/electron/macos/RStudio-2024.12.1-563.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/stable/desktop/opensuse/rstudio-latest-x86_64.rpm"
       },
       "opensuse15": {
-        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/electron/opensuse15/x86_64/rstudio-2024.12.0-467-x86_64.rpm"
+        "rstudio": "https://s3.amazonaws.com/rstudio-desktop/electron/opensuse15/x86_64/rstudio-2024.12.1-563-x86_64.rpm"
       },
       "redhat64": {
         "rstudio": "https://rstudio.org/download/latest/stable/desktop/redhat64/rstudio-latest-x86_64.rpm"
@@ -187,7 +187,7 @@
         "rstudio-server-pro": "https://rstudio.org/download/latest/stable/server/debian9_64/rstudio-server-pro-latest-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/opensuse15/x86_64/rstudio-server-2024.12.0-467-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/opensuse15/x86_64/rstudio-server-2024.12.1-563-x86_64.rpm",
         "rstudio-server-pro": "https://rstudio.org/download/latest/stable/server/opensuse15/rstudio-server-pro-latest-x86_64.rpm"
       },
       "redhat6_64": {
