@@ -86,7 +86,7 @@
         "rstudio": "https://rstudio.org/download/latest/preview/desktop/debian9/rstudio-latest-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2026.01.0-392.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-ide-build/electron/macos/RStudio-2026.01.1-403.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/preview/desktop/opensuse/rstudio-latest-x86_64.rpm"
@@ -115,7 +115,7 @@
         "rstudio-server-pro": "https://rstudio.org/download/latest/preview/server/debian9_64/rstudio-server-pro-latest-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2026.01.0-392-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-ide-build/server/opensuse15/x86_64/rstudio-server-2026.01.1-403-x86_64.rpm",
         "rstudio-server-pro": "https://rstudio.org/download/latest/preview/server/opensuse15/rstudio-server-pro-latest-x86_64.rpm"
       },
       "redhat6_64": {
@@ -158,7 +158,7 @@
         "rstudio": "https://rstudio.org/download/latest/stable/desktop/debian9/rstudio-latest-amd64.deb"
       },
       "mac": {
-        "RStudio": "https://s3.amazonaws.com/rstudio-desktop/electron/macos/RStudio-2026.01.0-392.dmg"
+        "RStudio": "https://s3.amazonaws.com/rstudio-desktop/electron/macos/RStudio-2026.01.1-403.dmg"
       },
       "opensuse": {
         "rstudio": "https://rstudio.org/download/latest/stable/desktop/opensuse/rstudio-latest-x86_64.rpm"
@@ -187,7 +187,7 @@
         "rstudio-server-pro": "https://rstudio.org/download/latest/stable/server/debian9_64/rstudio-server-pro-latest-amd64.deb"
       },
       "opensuse15": {
-        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/opensuse15/x86_64/rstudio-server-2026.01.0-392-x86_64.rpm",
+        "rstudio-server": "https://s3.amazonaws.com/rstudio-server/server/opensuse15/x86_64/rstudio-server-2026.01.1-403-x86_64.rpm",
         "rstudio-server-pro": "https://rstudio.org/download/latest/stable/server/opensuse15/rstudio-server-pro-latest-x86_64.rpm"
       },
       "redhat6_64": {
